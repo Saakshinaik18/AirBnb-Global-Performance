@@ -1,2 +1,1 @@
-# AirBnb-Global-Performance
-Developed an interactive Global Airbnb Performance Dashboard using Power BI to analyze listing growth, market share, pricing trends, customer reviews, and host trust metrics across multiple cities.
+Developed an interactive Global Airbnb Performance Dashboard using Power BI to analyze listing growth, market share, pricing trends, customer reviews, and host trust metrics across multiple cities. The dashboard provides insights into 279K+ listings across 10 major cities and 182K hosts, helping understand market performance, seasonal demand patterns, and customer behavior. Interactive visualizations allow stakeholders to evaluate city-level market share, review frequency, property type pricing, and listing lifecycle trends.
