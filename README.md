@@ -44,6 +44,8 @@ Listing details
 Host information
 Review data
 Property type and pricing
+
+Power Bi File: https://drive.google.com/drive/u/0/folders/1eljAG6PBhRQ8VbE2_fkfIls3-UXROc4O
 Location and city data
 
 🚀 Future Improvements
